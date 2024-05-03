@@ -2,9 +2,7 @@
 
 **robsyme/minimal** is a minimal example workflow
 
-## Usage
-
-Now, you can run the pipeline using:
+You can run the pipeline using:
 
 ```bash
 nextflow run robsyme/minimal \
@@ -12,10 +10,6 @@ nextflow run robsyme/minimal \
    --input samplesheet.csv \
    --outdir <OUTDIR>
 ```
-
-## Credits
-
-robsyme/minimal was originally written by Rob Syme and built from a the nf-core template.
 
 ## Citations
 
